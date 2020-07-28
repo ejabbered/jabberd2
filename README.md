@@ -10,6 +10,10 @@ Jabber Open Source Server (2.x)
 * http://www.umgum.com/jabberd2-configuration-files
 * http://www.umgum.com/jabberd2-mu-conference
 
+======
+
+* https://github.com/jabberd2/jabberd2/wiki/InstallGuide-Router-usersConfiguration
+
 Thanks for downloading jabberd2. Below are some basic instructions to
 get you started. Complete documentation is available at http://jabberd2.org/
 
