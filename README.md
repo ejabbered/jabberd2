@@ -6,9 +6,9 @@ Jabber Open Source Server (2.x)
 [![Join the chat at Gitter](https://badges.gitter.im/jabberd2/jabberd2.svg)](https://gitter.im/jabberd2/jabberd2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Flattr this](https://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=8n22qr&url=https%3A%2F%2Fgithub.com%2Fjabberd2%2Fjabberd2)
 
-[![ook also:](http://www.umgum.com/jabberd2-base-conf)
-           [![](http://www.umgum.com/jabberd2-configuration-files)
-           [![](http://www.umgum.com/jabberd2-mu-conference)
+* http://www.umgum.com/jabberd2-base-conf
+* http://www.umgum.com/jabberd2-configuration-files
+* http://www.umgum.com/jabberd2-mu-conference
 
 Thanks for downloading jabberd2. Below are some basic instructions to
 get you started. Complete documentation is available at http://jabberd2.org/
